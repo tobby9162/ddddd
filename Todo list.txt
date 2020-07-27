@@ -1,5 +1,7 @@
 Todo list
 
-1.eat
+1.eat somthing
 
 2.sleep
+
+3.wait
